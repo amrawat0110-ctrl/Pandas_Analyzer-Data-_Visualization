@@ -131,7 +131,7 @@ Place the Python file and `sales_data.csv` in your project folder.
 Open `pandas_analyzer.py` and update:
 
 ```python
-file_path = r"YOUR_CSV_FILE_PATH"
+file_path = r"C:\Users\Armin Khareghat\OneDrive\Desktop\AI ML data science\Python\python-projects\Pandas Analyzer & Data Visualization\sales_data.csv"
 ```
 
 Example:
